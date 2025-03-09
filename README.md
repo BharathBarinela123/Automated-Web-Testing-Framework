@@ -23,8 +23,8 @@ This project is a Selenium-based automated testing framework developed using **J
 ## **Setup & Installation**  
 1. **Clone the Repository:**  
    ```bash
-   git clone <repo-url>
-   cd <project-folder>
+   git clone https://github.com/BharathBarinela123/Automated-Web-Testing-Framework.git
+   cd Automated-Web-Testing-Framework
    ```
 
 2. **Install Dependencies:**  
@@ -43,6 +43,4 @@ This project is a Selenium-based automated testing framework developed using **J
 - The framework reads test cases from `features/` (BDD feature files).  
 - Results are logged in the `reports/` directory using ExtentReports.  
 - Supports running tests with different browser configurations via WebDriverManager.  
-
-## **License**  
-This project is open-source and available under the [MIT License](LICENSE).  
+  
